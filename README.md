@@ -5,7 +5,6 @@ files by using a cropbox to specify the new extent of the image.
 
 ## Contents
 * `cropper.py` - crops a single PDF, designed for parallelization
-* `batch_pdf.sh` - Shell batch script for general usage
 * `pdf_cropper.sbatch` - Slurm script used on the University of Oregon's Talapas cluster
 
 ## Requirements

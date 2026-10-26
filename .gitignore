@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 *.idea/
+
+# Slurm job logs
+*.err
+*.out
